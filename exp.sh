@@ -1,17 +1,16 @@
 #!/bin/bash -l
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=48
+#SBATCH --cpus-per-task=24
 #SBATCH -t 110:00:00
-#SBATCH --mem=0
+#SBATCH --mem=72G
 #SBATCH --job-name=tpot-search-spaces
 #SBATCH -p defq
-#SBATCH --exclusive
 #SBATCH --exclude=esplhpc-cp040
 #SBATCH --mail-type=FAIL,BEGIN,END
 #SBATCH --mail-user=Ethan.Hodess@cshs.org
 #SBATCH -o ./logs/outputs/output.%j_%a.out # STDOUT
-#SBATCH --array=0-74
+#SBATCH --array=0-74%5
 RUN=${SLURM_ARRAY_TASK_ID:-1}
 echo “Run: ${RUN}”
 module load git/2.33.1

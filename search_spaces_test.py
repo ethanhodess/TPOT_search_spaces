@@ -74,28 +74,28 @@ def main():
         X_train, y_train, X_test, y_test = d['X_train'], d['y_train'], d['X_test'], d['y_test']
 
         # constrained search space
-        est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=8, population_size=8, cv=5,
+        est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=100, population_size=50, cv=5,
                                              random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
         est_constrained.fit(X_train, y_train)
         results = est_constrained.predict(X_test)
         accuracy_constrained = accuracy_score(y_test, results)
 
         # linear search space
-        est_linear = tpot.TPOTEstimator(search_space='linear', generations=8, population_size=8, cv=5,
+        est_linear = tpot.TPOTEstimator(search_space='linear', generations=100, population_size=50, cv=5,
                                         random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
         est_linear.fit(X_train, y_train)
         results = est_linear.predict(X_test)
         accuracy_linear = accuracy_score(y_test, results)
 
         # graph search space
-        est_graph = tpot.TPOTEstimator(search_space='graph', generations=8, population_size=8, cv=5,
+        est_graph = tpot.TPOTEstimator(search_space='graph', generations=100, population_size=50, cv=5,
                                        random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
         est_graph.fit(X_train, y_train)
         results = est_graph.predict(X_test)
         accuracy_graph = accuracy_score(y_test, results)
 
         # random control
-        est_random = tpot.TPOTEstimator(search_space='linear', generations=0, population_size=8, cv=5,
+        est_random = tpot.TPOTEstimator(search_space='graph', generations=0, population_size=5000, cv=5,
                                         random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
         est_random.fit(X_train, y_train)
         results = est_random.predict(X_test)
