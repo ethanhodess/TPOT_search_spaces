@@ -1,5 +1,0 @@
-“Run: 0”
-RunStart
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/tpot/tpot_estimator/estimator.py:458: UserWarning: Both generations and max_time_mins are set. TPOT will terminate when the first condition is met.
-  warnings.warn("Both generations and max_time_mins are set. TPOT will terminate when the first condition is met.")
-  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]
