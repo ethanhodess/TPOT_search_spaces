@@ -1,0 +1,600 @@
+“Run: 0”
+RunStart
+  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [00:58<1:36:49, 58.68s/it]Generation:   2%|▏         | 2/100 [02:22<1:59:47, 73.34s/it]Generation:   3%|▎         | 3/100 [03:23<1:49:55, 68.00s/it]Generation:   4%|▍         | 4/100 [03:44<1:18:51, 49.28s/it]Generation:   5%|▌         | 5/100 [04:14<1:06:45, 42.16s/it]Generation:   6%|▌         | 6/100 [04:38<56:47, 36.25s/it]  Generation:   7%|▋         | 7/100 [05:01<49:32, 31.96s/it]Generation:   8%|▊         | 8/100 [05:37<50:50, 33.16s/it]Generation:   9%|▉         | 9/100 [06:05<47:58, 31.64s/it]Generation:  10%|█         | 10/100 [06:34<46:12, 30.81s/it]Generation:  11%|█         | 11/100 [07:05<45:42, 30.82s/it]Generation:  12%|█▏        | 12/100 [07:55<53:31, 36.50s/it]Generation:  13%|█▎        | 13/100 [08:31<52:57, 36.52s/it]Generation:  14%|█▍        | 14/100 [09:08<52:14, 36.45s/it]Generation:  15%|█▌        | 15/100 [10:07<1:01:33, 43.46s/it]Generation:  16%|█▌        | 16/100 [10:41<56:40, 40.48s/it]  Generation:  17%|█▋        | 17/100 [11:15<53:13, 38.47s/it]Generation:  18%|█▊        | 18/100 [11:45<49:10, 35.98s/it]Generation:  19%|█▉        | 19/100 [12:21<48:36, 36.00s/it]Generation:  20%|██        | 20/100 [12:52<45:54, 34.43s/it]Generation:  21%|██        | 21/100 [13:35<48:59, 37.21s/it]Generation:  22%|██▏       | 22/100 [14:18<50:31, 38.86s/it]Generation:  23%|██▎       | 23/100 [15:19<58:26, 45.54s/it]Generation:  24%|██▍       | 24/100 [15:50<52:07, 41.15s/it]Generation:  25%|██▌       | 25/100 [16:30<50:51, 40.69s/it]Generation:  26%|██▌       | 26/100 [17:30<57:35, 46.69s/it]Generation:  27%|██▋       | 27/100 [18:07<53:04, 43.63s/it]Generation:  28%|██▊       | 28/100 [19:04<57:16, 47.73s/it]Generation:  29%|██▉       | 29/100 [19:38<51:26, 43.47s/it]Generation:  30%|███       | 30/100 [20:19<49:58, 42.84s/it]Generation:  31%|███       | 31/100 [23:42<1:44:30, 90.88s/it]Generation:  32%|███▏      | 32/100 [24:32<1:29:10, 78.69s/it]Generation:  33%|███▎      | 33/100 [25:10<1:14:04, 66.34s/it]Generation:  34%|███▍      | 34/100 [25:36<59:47, 54.36s/it]  Generation:  35%|███▌      | 35/100 [26:16<54:07, 49.96s/it]Generation:  36%|███▌      | 36/100 [26:45<46:27, 43.56s/it]Generation:  37%|███▋      | 37/100 [27:23<44:10, 42.07s/it]Generation:  38%|███▊      | 38/100 [32:16<2:01:12, 117.29s/it]Generation:  39%|███▉      | 39/100 [33:01<1:37:13, 95.63s/it] Generation:  40%|████      | 40/100 [33:32<1:16:15, 76.26s/it]Generation:  41%|████      | 41/100 [34:10<1:03:44, 64.82s/it]Generation:  42%|████▏     | 42/100 [35:00<58:21, 60.38s/it]  Generation:  43%|████▎     | 43/100 [36:03<58:00, 61.06s/it]Generation:  44%|████▍     | 44/100 [36:48<52:26, 56.19s/it]Generation:  45%|████▌     | 45/100 [37:32<48:18, 52.71s/it]Generation:  46%|████▌     | 46/100 [38:03<41:29, 46.10s/it]Generation:  47%|████▋     | 47/100 [38:32<36:08, 40.92s/it]Generation:  48%|████▊     | 48/100 [39:13<35:33, 41.02s/it]Generation:  49%|████▉     | 49/100 [39:45<32:30, 38.25s/it]Generation:  50%|█████     | 50/100 [40:29<33:20, 40.02s/it]Generation:  51%|█████     | 51/100 [41:21<35:32, 43.53s/it]Generation:  52%|█████▏    | 52/100 [42:09<36:04, 45.09s/it]Generation:  53%|█████▎    | 53/100 [44:11<53:23, 68.17s/it]Generation:  54%|█████▍    | 54/100 [44:41<43:27, 56.68s/it]Generation:  55%|█████▌    | 55/100 [45:23<39:09, 52.21s/it]Generation:  56%|█████▌    | 56/100 [46:05<35:58, 49.05s/it]Generation:  57%|█████▋    | 57/100 [46:38<31:43, 44.27s/it]Generation:  58%|█████▊    | 58/100 [47:35<33:45, 48.23s/it]Generation:  59%|█████▉    | 59/100 [48:04<29:01, 42.47s/it]Generation:  60%|██████    | 60/100 [48:42<27:20, 41.01s/it]Generation:  61%|██████    | 61/100 [49:41<30:09, 46.40s/it]Generation:  62%|██████▏   | 62/100 [50:10<26:09, 41.29s/it]Generation:  63%|██████▎   | 63/100 [50:53<25:42, 41.70s/it]Generation:  64%|██████▍   | 64/100 [52:09<31:16, 52.12s/it]Generation:  65%|██████▌   | 65/100 [55:29<56:12, 96.35s/it]Generation:  66%|██████▌   | 66/100 [55:58<43:04, 76.02s/it]Generation:  67%|██████▋   | 67/100 [56:27<34:06, 62.01s/it]Generation:  68%|██████▊   | 68/100 [57:12<30:18, 56.84s/it]Generation:  69%|██████▉   | 69/100 [57:59<27:54, 54.01s/it]Generation:  70%|███████   | 70/100 [58:48<26:12, 52.43s/it]Generation:  71%|███████   | 71/100 [59:37<24:56, 51.60s/it]Generation:  72%|███████▏  | 72/100 [1:00:17<22:23, 47.98s/it]Generation:  73%|███████▎  | 73/100 [1:00:45<18:50, 41.86s/it]Generation:  74%|███████▍  | 74/100 [1:01:23<17:40, 40.77s/it]Generation:  75%|███████▌  | 75/100 [1:02:21<19:09, 46.00s/it]Generation:  76%|███████▌  | 76/100 [1:08:58<1:00:31, 151.31s/it]Generation:  77%|███████▋  | 77/100 [1:09:36<44:55, 117.17s/it]  Generation:  78%|███████▊  | 78/100 [1:10:32<36:14, 98.82s/it] Generation:  79%|███████▉  | 79/100 [1:11:03<27:30, 78.57s/it]Generation:  80%|████████  | 80/100 [1:11:59<23:55, 71.76s/it]Generation:  81%|████████  | 81/100 [1:12:33<19:08, 60.45s/it]Generation:  82%|████████▏ | 82/100 [1:13:48<19:29, 64.95s/it]Generation:  83%|████████▎ | 83/100 [1:14:27<16:10, 57.06s/it]Generation:  84%|████████▍ | 84/100 [1:14:59<13:10, 49.43s/it]Generation:  85%|████████▌ | 85/100 [1:16:00<13:16, 53.12s/it]Generation:  86%|████████▌ | 86/100 [1:17:10<13:35, 58.23s/it]Generation:  87%|████████▋ | 87/100 [1:17:41<10:47, 49.81s/it]Generation:  88%|████████▊ | 88/100 [1:18:43<10:43, 53.61s/it]Generation:  89%|████████▉ | 89/100 [1:19:30<09:29, 51.73s/it]Generation:  90%|█████████ | 90/100 [1:20:47<09:51, 59.19s/it]Generation:  91%|█████████ | 91/100 [1:21:26<07:57, 53.09s/it]Generation:  92%|█████████▏| 92/100 [1:23:46<10:32, 79.09s/it]Generation:  93%|█████████▎| 93/100 [1:24:58<08:58, 76.99s/it]Generation:  94%|█████████▍| 94/100 [1:25:30<06:22, 63.68s/it]Generation:  95%|█████████▌| 95/100 [1:26:46<05:36, 67.23s/it]Generation:  96%|█████████▌| 96/100 [1:27:35<04:07, 61.86s/it]Generation:  97%|█████████▋| 97/100 [1:31:40<05:50, 116.82s/it]Generation:  98%|█████████▊| 98/100 [1:33:16<03:40, 110.38s/it]Generation:  99%|█████████▉| 99/100 [1:33:51<01:27, 87.84s/it] Generation: 100%|██████████| 100/100 [1:34:47<00:00, 78.42s/it]Generation: 100%|██████████| 100/100 [1:34:47<00:00, 56.88s/it]
+  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [00:15<25:48, 15.64s/it]Generation:   2%|▏         | 2/100 [01:11<1:03:46, 39.05s/it]Generation:   3%|▎         | 3/100 [01:32<49:48, 30.81s/it]  Generation:   4%|▍         | 4/100 [03:07<1:29:52, 56.17s/it]Generation:   5%|▌         | 5/100 [03:28<1:09:06, 43.65s/it]Generation:   6%|▌         | 6/100 [04:17<1:11:08, 45.41s/it]Generation:   7%|▋         | 7/100 [04:39<58:47, 37.93s/it]  Generation:   8%|▊         | 8/100 [05:02<50:33, 32.97s/it]Generation:   9%|▉         | 9/100 [05:26<45:44, 30.16s/it]Generation:  10%|█         | 10/100 [05:48<41:33, 27.71s/it]Generation:  11%|█         | 11/100 [06:24<44:39, 30.11s/it]Generation:  12%|█▏        | 12/100 [07:22<56:45, 38.70s/it]Generation:  13%|█▎        | 13/100 [07:48<50:44, 34.99s/it]Generation:  14%|█▍        | 14/100 [08:18<47:57, 33.45s/it]Generation:  15%|█▌        | 15/100 [08:44<44:11, 31.19s/it]Generation:  16%|█▌        | 16/100 [09:15<43:24, 31.00s/it]Generation:  17%|█▋        | 17/100 [09:59<48:11, 34.84s/it]Generation:  18%|█▊        | 18/100 [10:21<42:36, 31.18s/it]Generation:  19%|█▉        | 19/100 [10:52<42:07, 31.21s/it]Generation:  20%|██        | 20/100 [11:33<45:14, 33.93s/it]Generation:  21%|██        | 21/100 [12:21<50:23, 38.28s/it]Generation:  22%|██▏       | 22/100 [13:08<53:11, 40.92s/it]Generation:  23%|██▎       | 23/100 [13:43<50:05, 39.03s/it]Generation:  24%|██▍       | 24/100 [14:44<57:40, 45.53s/it]Generation:  25%|██▌       | 25/100 [15:21<53:59, 43.20s/it]Generation:  26%|██▌       | 26/100 [15:59<51:07, 41.46s/it]Generation:  27%|██▋       | 27/100 [16:25<44:56, 36.93s/it]Generation:  28%|██▊       | 28/100 [17:15<49:08, 40.95s/it]Generation:  29%|██▉       | 29/100 [17:53<47:12, 39.89s/it]Generation:  30%|███       | 30/100 [18:38<48:18, 41.41s/it]Generation:  31%|███       | 31/100 [19:12<45:13, 39.33s/it]Generation:  32%|███▏      | 32/100 [20:07<49:54, 44.04s/it]Generation:  33%|███▎      | 33/100 [20:41<45:48, 41.02s/it]Generation:  34%|███▍      | 34/100 [21:21<44:36, 40.56s/it]Generation:  35%|███▌      | 35/100 [22:15<48:32, 44.80s/it]Generation:  36%|███▌      | 36/100 [23:20<54:15, 50.87s/it]Generation:  37%|███▋      | 37/100 [23:55<48:12, 45.91s/it]Generation:  38%|███▊      | 38/100 [24:29<43:46, 42.37s/it]Generation:  39%|███▉      | 39/100 [25:07<41:51, 41.18s/it]Generation:  40%|████      | 40/100 [26:06<46:25, 46.42s/it]Generation:  41%|████      | 41/100 [26:32<39:33, 40.24s/it]Generation:  42%|████▏     | 42/100 [27:22<41:42, 43.15s/it]Generation:  43%|████▎     | 43/100 [28:08<41:52, 44.08s/it]Generation:  44%|████▍     | 44/100 [29:06<45:07, 48.35s/it]Generation:  45%|████▌     | 45/100 [29:58<45:19, 49.44s/it]Generation:  46%|████▌     | 46/100 [30:33<40:31, 45.02s/it]Generation:  47%|████▋     | 47/100 [30:59<34:47, 39.39s/it]Generation:  48%|████▊     | 48/100 [31:44<35:25, 40.88s/it]Generation:  49%|████▉     | 49/100 [32:43<39:21, 46.30s/it]Generation:  50%|█████     | 50/100 [33:12<34:26, 41.32s/it]Generation:  51%|█████     | 51/100 [33:38<29:49, 36.52s/it]Generation:  52%|█████▏    | 52/100 [34:05<26:57, 33.69s/it]Generation:  53%|█████▎    | 53/100 [34:29<24:15, 30.97s/it]Generation:  54%|█████▍    | 54/100 [36:04<38:25, 50.12s/it]Generation:  55%|█████▌    | 55/100 [36:38<33:53, 45.19s/it]Generation:  56%|█████▌    | 56/100 [37:06<29:23, 40.08s/it]Generation:  57%|█████▋    | 57/100 [37:43<28:04, 39.18s/it]Generation:  58%|█████▊    | 58/100 [38:21<27:17, 38.99s/it]Generation:  59%|█████▉    | 59/100 [39:13<29:13, 42.77s/it]Generation:  60%|██████    | 60/100 [39:54<28:06, 42.16s/it]Generation:  61%|██████    | 61/100 [40:37<27:31, 42.35s/it]Generation:  62%|██████▏   | 62/100 [41:19<26:54, 42.49s/it]Generation:  63%|██████▎   | 63/100 [41:52<24:23, 39.56s/it]Generation:  64%|██████▍   | 64/100 [42:33<24:01, 40.05s/it]Generation:  65%|██████▌   | 65/100 [43:49<29:37, 50.78s/it]Generation:  66%|██████▌   | 66/100 [44:23<25:48, 45.56s/it]Generation:  67%|██████▋   | 67/100 [44:49<21:57, 39.93s/it]Generation:  68%|██████▊   | 68/100 [45:31<21:35, 40.47s/it]Generation:  69%|██████▉   | 69/100 [46:22<22:29, 43.53s/it]Generation:  70%|███████   | 70/100 [47:00<21:02, 42.07s/it]Generation:  71%|███████   | 71/100 [48:08<24:02, 49.74s/it]Generation:  72%|███████▏  | 72/100 [48:49<21:59, 47.12s/it]Generation:  73%|███████▎  | 73/100 [49:41<21:49, 48.52s/it]Generation:  74%|███████▍  | 74/100 [50:56<24:26, 56.40s/it]Generation:  75%|███████▌  | 75/100 [51:40<21:56, 52.64s/it]Generation:  76%|███████▌  | 76/100 [52:19<19:26, 48.59s/it]Generation:  77%|███████▋  | 77/100 [52:50<16:37, 43.36s/it]Generation:  78%|███████▊  | 78/100 [54:12<20:10, 55.04s/it]Generation:  79%|███████▉  | 79/100 [54:35<15:52, 45.34s/it]Generation:  80%|████████  | 80/100 [55:19<15:01, 45.06s/it]Generation:  81%|████████  | 81/100 [55:43<12:12, 38.57s/it]Generation:  82%|████████▏ | 82/100 [56:16<11:05, 36.96s/it]Generation:  83%|████████▎ | 83/100 [56:51<10:20, 36.49s/it]Generation:  84%|████████▍ | 84/100 [57:46<11:10, 41.92s/it]Generation:  85%|████████▌ | 85/100 [58:59<12:51, 51.41s/it]Generation:  86%|████████▌ | 86/100 [59:31<10:37, 45.52s/it]Generation:  87%|████████▋ | 87/100 [59:56<08:30, 39.27s/it]Generation:  88%|████████▊ | 88/100 [1:00:28<07:24, 37.01s/it]Generation:  89%|████████▉ | 89/100 [1:00:51<06:03, 33.03s/it]Generation:  90%|█████████ | 90/100 [1:01:15<05:01, 30.16s/it]Generation:  91%|█████████ | 91/100 [1:02:17<05:57, 39.76s/it]Generation:  92%|█████████▏| 92/100 [1:03:03<05:32, 41.56s/it]Generation:  93%|█████████▎| 93/100 [1:03:47<04:57, 42.50s/it]Generation:  94%|█████████▍| 94/100 [1:04:28<04:10, 41.78s/it]Generation:  95%|█████████▌| 95/100 [1:05:03<03:18, 39.75s/it]Generation:  96%|█████████▌| 96/100 [1:05:36<02:31, 37.80s/it]Generation:  97%|█████████▋| 97/100 [1:06:16<01:55, 38.66s/it]Generation:  98%|█████████▊| 98/100 [1:07:00<01:20, 40.02s/it]Generation:  99%|█████████▉| 99/100 [1:08:52<01:01, 61.58s/it]Generation: 100%|██████████| 100/100 [1:09:36<00:00, 56.52s/it]Generation: 100%|██████████| 100/100 [1:09:36<00:00, 41.77s/it]
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [05:47<9:33:05, 347.33s/it]Generation:   2%|▏         | 2/100 [08:57<6:56:12, 254.82s/it]Generation:   3%|▎         | 3/100 [14:57<8:09:50, 303.00s/it]Generation:   4%|▍         | 4/100 [21:22<8:56:36, 335.38s/it]Generation:   5%|▌         | 5/100 [29:23<10:13:53, 387.72s/it]Generation:   6%|▌         | 6/100 [36:13<10:19:39, 395.53s/it]Generation:   7%|▋         | 7/100 [44:51<11:14:41, 435.29s/it]Generation:   8%|▊         | 8/100 [51:19<10:44:39, 420.43s/it]Generation:   9%|▉         | 9/100 [1:00:35<11:41:45, 462.70s/it]Generation:  10%|█         | 10/100 [1:09:14<12:00:00, 480.00s/it]Generation:  11%|█         | 11/100 [1:18:04<12:14:40, 495.28s/it]Generation:  12%|█▏        | 12/100 [1:36:56<16:50:51, 689.23s/it]Generation:  13%|█▎        | 13/100 [2:01:50<22:32:54, 933.04s/it]Generation:  14%|█▍        | 14/100 [2:22:50<24:38:50, 1031.75s/it]Generation:  15%|█▌        | 15/100 [2:35:14<22:18:30, 944.83s/it] Generation:  16%|█▌        | 16/100 [2:53:48<23:14:21, 995.97s/it]Generation:  17%|█▋        | 17/100 [3:09:37<22:37:55, 981.63s/it]Generation:  18%|█▊        | 18/100 [3:30:20<24:09:07, 1060.33s/it]Generation:  19%|█▉        | 19/100 [3:43:40<22:05:42, 982.01s/it] Generation:  20%|██        | 20/100 [4:05:01<23:49:02, 1071.78s/it]Generation:  21%|██        | 21/100 [4:26:20<24:53:00, 1133.93s/it]Generation:  22%|██▏       | 22/100 [4:39:52<22:28:32, 1037.34s/it]Generation:  23%|██▎       | 23/100 [5:01:17<23:46:36, 1111.64s/it]Generation:  24%|██▍       | 24/100 [5:20:33<23:45:14, 1125.18s/it]Generation:  25%|██▌       | 25/100 [5:33:55<21:25:09, 1028.12s/it]Generation:  26%|██▌       | 26/100 [5:45:32<19:05:32, 928.82s/it] Generation:  27%|██▋       | 27/100 [6:01:02<18:50:32, 929.21s/it]Generation:  28%|██▊       | 28/100 [6:19:06<19:30:47, 975.65s/it]Generation:  29%|██▉       | 29/100 [6:38:05<20:12:16, 1024.46s/it]Generation:  30%|███       | 30/100 [6:57:47<20:50:26, 1071.80s/it]Generation:  31%|███       | 31/100 [7:20:02<22:03:29, 1150.87s/it]Generation:  32%|███▏      | 32/100 [7:34:22<20:05:25, 1063.61s/it]Generation:  33%|███▎      | 33/100 [7:57:09<21:29:20, 1154.64s/it]Generation:  34%|███▍      | 34/100 [8:13:52<20:19:51, 1108.96s/it]Generation:  35%|███▌      | 35/100 [8:37:33<21:42:57, 1202.72s/it]Generation:  36%|███▌      | 36/100 [8:57:30<21:20:53, 1200.83s/it]Generation:  37%|███▋      | 37/100 [9:15:48<20:28:33, 1170.06s/it]Generation:  38%|███▊      | 38/100 [9:35:08<20:05:57, 1167.06s/it]Generation:  39%|███▉      | 39/100 [9:51:26<18:48:55, 1110.43s/it]Generation:  40%|████      | 40/100 [10:10:01<18:31:43, 1111.72s/it]Generation:  41%|████      | 41/100 [10:25:14<17:14:35, 1052.12s/it]Generation:  42%|████▏     | 42/100 [10:40:02<16:09:28, 1002.91s/it]Generation:  43%|████▎     | 43/100 [11:00:38<16:59:09, 1072.81s/it]Generation:  44%|████▍     | 44/100 [11:14:02<15:25:59, 992.14s/it] Generation:  45%|████▌     | 45/100 [11:27:14<14:14:32, 932.23s/it]Generation:  46%|████▌     | 46/100 [11:43:35<14:12:10, 946.86s/it]Generation:  47%|████▋     | 47/100 [12:01:38<14:32:17, 987.49s/it]Generation:  48%|████▊     | 48/100 [12:17:32<14:07:18, 977.66s/it]Generation:  49%|████▉     | 49/100 [12:42:26<16:02:34, 1132.44s/it]Generation:  50%|█████     | 50/100 [12:58:13<14:57:26, 1076.93s/it]Generation:  51%|█████     | 51/100 [13:16:18<14:41:25, 1079.30s/it]Generation:  52%|█████▏    | 52/100 [13:29:20<13:12:07, 990.16s/it] Generation:  53%|█████▎    | 53/100 [13:42:32<12:08:59, 930.64s/it]Generation:  54%|█████▍    | 54/100 [13:59:39<12:15:41, 959.60s/it]Generation:  55%|█████▌    | 55/100 [14:13:46<11:34:13, 925.64s/it]Generation:  56%|█████▌    | 56/100 [14:26:06<10:37:59, 869.98s/it]Generation:  57%|█████▋    | 57/100 [14:43:44<11:03:56, 926.42s/it]Generation:  58%|█████▊    | 58/100 [15:07:02<12:27:32, 1067.91s/it]Generation:  59%|█████▉    | 59/100 [15:19:28<11:03:43, 971.29s/it] Generation:  60%|██████    | 60/100 [15:38:32<11:22:02, 1023.06s/it]Generation:  61%|██████    | 61/100 [15:55:56<11:09:09, 1029.47s/it]Generation:  62%|██████▏   | 62/100 [16:06:33<9:37:26, 911.75s/it]  Generation:  63%|██████▎   | 63/100 [16:20:46<9:11:14, 893.92s/it]Generation:  64%|██████▍   | 64/100 [16:34:11<8:40:22, 867.30s/it]Generation:  65%|██████▌   | 65/100 [16:48:37<8:25:45, 867.03s/it]Generation:  66%|██████▌   | 66/100 [17:06:19<8:44:27, 925.52s/it]Generation:  67%|██████▋   | 67/100 [17:19:00<8:01:52, 876.15s/it]Generation:  68%|██████▊   | 68/100 [17:32:46<7:39:14, 861.07s/it]Generation:  69%|██████▉   | 69/100 [17:51:16<8:03:27, 935.72s/it]Generation:  70%|███████   | 70/100 [18:11:12<8:26:53, 1013.78s/it]Generation:  71%|███████   | 71/100 [18:31:44<8:41:36, 1079.19s/it]Generation:  72%|███████▏  | 72/100 [18:44:46<7:42:01, 990.04s/it] Generation:  73%|███████▎  | 73/100 [19:08:27<8:23:42, 1119.34s/it]Generation:  74%|███████▍  | 74/100 [19:24:03<7:41:13, 1064.37s/it]Generation:  75%|███████▌  | 75/100 [19:46:34<7:59:22, 1150.51s/it]Generation:  76%|███████▌  | 76/100 [20:00:18<7:01:00, 1052.53s/it]Generation:  77%|███████▋  | 77/100 [20:13:46<6:15:18, 979.07s/it] Generation:  78%|███████▊  | 78/100 [20:24:52<5:24:34, 885.21s/it]Generation:  79%|███████▉  | 79/100 [20:38:30<5:02:45, 865.02s/it]Generation:  80%|████████  | 80/100 [20:52:02<4:43:04, 849.21s/it]Generation:  81%|████████  | 81/100 [21:08:21<4:41:11, 888.00s/it]Generation:  82%|████████▏ | 82/100 [21:21:17<4:16:20, 854.46s/it]Generation:  83%|████████▎ | 83/100 [21:34:29<3:56:49, 835.84s/it]Generation:  84%|████████▍ | 84/100 [21:50:23<3:52:18, 871.18s/it]Generation:  85%|████████▌ | 85/100 [22:03:20<3:30:42, 842.85s/it]Generation:  86%|████████▌ | 86/100 [22:25:15<3:49:45, 984.64s/it]Generation:  87%|████████▋ | 87/100 [22:40:22<3:28:15, 961.21s/it]Generation:  88%|████████▊ | 88/100 [23:01:02<3:28:58, 1044.86s/it]Generation:  89%|████████▉ | 89/100 [23:14:05<2:57:10, 966.38s/it] Generation:  90%|█████████ | 90/100 [23:28:24<2:35:42, 934.25s/it]Generation:  91%|█████████ | 91/100 [23:52:02<2:41:53, 1079.29s/it]Generation:  92%|█████████▏| 92/100 [24:06:16<2:14:53, 1011.71s/it]Generation:  93%|█████████▎| 93/100 [24:23:14<1:58:14, 1013.51s/it]Generation:  94%|█████████▍| 94/100 [24:36:06<1:34:06, 941.15s/it] Generation:  95%|█████████▌| 95/100 [24:53:22<1:20:47, 969.56s/it]2025-09-03 13:07:03,147 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-599f59db53a8b27cf3ad532d2d4d4360'}
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
+    c.send(msg)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
+    raise CommClosedError(f"Comm {self.comm!r} already closed.")
+distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:44785 remote=tcp://127.0.0.1:59924> already closed.
+2025-09-03 13:07:03,149 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-ba07e75e3093a49488de4584e4e82fa3'}
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
+    c.send(msg)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
+    raise CommClosedError(f"Comm {self.comm!r} already closed.")
+distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:44785 remote=tcp://127.0.0.1:59924> already closed.
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120178075' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Generation:  96%|█████████▌| 96/100 [24:56:11<48:38, 729.51s/it]  Task exception was never retrieved
+future: <Task finished name='Task-120192163' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120209417' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Generation:  97%|█████████▋| 97/100 [24:57:07<26:22, 527.37s/it]Task exception was never retrieved
+future: <Task finished name='Task-120221733' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120238498' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120251115' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Generation:  98%|█████████▊| 98/100 [24:58:03<12:51, 385.92s/it]Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120262434' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120265860' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Generation:  99%|█████████▉| 99/100 [24:59:00<04:47, 287.14s/it]Task exception was never retrieved
+future: <Task finished name='Task-120278332' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-599f59db53a8b27cf3ad532d2d4d4360' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Task exception was never retrieved
+future: <Task finished name='Task-120292592' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=AssertionError(<TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>)>
+Traceback (most recent call last):
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
+    result = await result
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5904, in add_client
+    await self.handle_stream(comm=comm, extra={"client": client})
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 912, in handle_stream
+    await handler(**merge(extra, msg))
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
+    return await func(*args, **kwargs)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4893, in update_graph
+    self._create_taskstate_from_graph(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 4831, in _create_taskstate_from_graph
+    self.transitions(recommendations, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 8181, in transitions
+    self._transitions(recommendations, client_msgs, worker_msgs, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2134, in _transitions
+    new_recs, new_cmsgs, new_wmsgs = self._transition(key, finish, stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2017, in _transition
+    recommendations, client_msgs, worker_msgs = func(
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 2468, in _transition_waiting_processing
+    return self._add_to_processing(ts, ws, stimulus_id=stimulus_id)
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3415, in _add_to_processing
+    return {}, {}, {ws.address: [self._task_to_msg(ts)]}
+  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 3587, in _task_to_msg
+    assert ts.priority, ts
+AssertionError: <TaskState 'ndarray-ba07e75e3093a49488de4584e4e82fa3' forgotten>
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Cancelled future (likely memory related)
+Generation: 100%|██████████| 100/100 [24:59:54<00:00, 217.35s/it]Generation: 100%|██████████| 100/100 [24:59:54<00:00, 899.95s/it]
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:781: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/feature_selection/_univariate_selection.py:110: UserWarning: Features [3] are constant.
+  warnings.warn("Features %s are constant." % constant_features_idx, UserWarning)
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/feature_selection/_univariate_selection.py:111: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+Error shutting down client and cluster
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38939 instead
+  warnings.warn(
+0it [00:00, ?it/s]Generation: : 0it [00:00, ?it/s]Generation: : 1it [1:12:29, 4349.01s/it]Generation: : 1it [1:12:29, 4349.15s/it]
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+DONE

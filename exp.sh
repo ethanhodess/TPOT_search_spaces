@@ -22,6 +22,6 @@ conda activate tpot2env
 
 echo RunStart
 srun -u /home/hodesse/miniconda3/envs/tpot2env/bin/python search_spaces_test.py \
---n_jobs 48 \
+--n_jobs 24 \
 --savepath logs \
 --num_runs ${RUN} \
