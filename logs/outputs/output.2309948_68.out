@@ -1,254 +1,0 @@
-“Run: 68”
-RunStart
-  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [01:02<1:42:42, 62.25s/it]Generation:   2%|▏         | 2/100 [02:11<1:48:29, 66.42s/it]Generation:   3%|▎         | 3/100 [03:28<1:55:16, 71.30s/it]Generation:   4%|▍         | 4/100 [04:48<1:59:34, 74.74s/it]Generation:   5%|▌         | 5/100 [06:35<2:16:27, 86.19s/it]Generation:   6%|▌         | 6/100 [09:55<3:15:54, 125.05s/it]Generation:   7%|▋         | 7/100 [11:35<3:01:02, 116.80s/it]Generation:   8%|▊         | 8/100 [13:00<2:43:23, 106.56s/it]Generation:   9%|▉         | 9/100 [14:23<2:30:32, 99.26s/it] Generation:  10%|█         | 10/100 [15:48<2:22:14, 94.83s/it]Generation:  11%|█         | 11/100 [17:23<2:20:55, 95.00s/it]Generation:  12%|█▏        | 12/100 [19:40<2:38:05, 107.79s/it]Generation:  13%|█▎        | 13/100 [21:25<2:35:11, 107.03s/it]Generation:  14%|█▍        | 14/100 [23:02<2:29:01, 103.97s/it]Generation:  15%|█▌        | 15/100 [24:28<2:19:23, 98.39s/it] Generation:  16%|█▌        | 16/100 [26:13<2:20:37, 100.45s/it]Generation:  17%|█▋        | 17/100 [27:43<2:14:38, 97.33s/it] Generation:  18%|█▊        | 18/100 [29:05<2:06:49, 92.79s/it]Generation:  19%|█▉        | 19/100 [30:13<1:55:04, 85.24s/it]Generation:  20%|██        | 20/100 [31:47<1:57:03, 87.79s/it]Generation:  21%|██        | 21/100 [33:10<1:53:53, 86.50s/it]Generation:  22%|██▏       | 22/100 [34:28<1:49:13, 84.02s/it]Generation:  23%|██▎       | 23/100 [35:39<1:42:48, 80.11s/it]Generation:  24%|██▍       | 24/100 [36:52<1:38:39, 77.88s/it]Generation:  25%|██▌       | 25/100 [38:21<1:41:34, 81.26s/it]Generation:  26%|██▌       | 26/100 [39:58<1:45:49, 85.80s/it]Generation:  27%|██▋       | 27/100 [41:18<1:42:16, 84.06s/it]Generation:  28%|██▊       | 28/100 [42:22<1:33:46, 78.15s/it]Generation:  29%|██▉       | 29/100 [43:57<1:38:30, 83.24s/it]Generation:  30%|███       | 30/100 [45:24<1:38:22, 84.32s/it]Generation:  31%|███       | 31/100 [46:09<1:23:19, 72.45s/it]Generation:  32%|███▏      | 32/100 [47:26<1:23:44, 73.89s/it]Generation:  33%|███▎      | 33/100 [50:10<1:52:43, 100.95s/it]Generation:  34%|███▍      | 34/100 [51:08<1:36:56, 88.12s/it] Generation:  35%|███▌      | 35/100 [52:02<1:24:18, 77.82s/it]Generation:  36%|███▌      | 36/100 [52:47<1:12:22, 67.85s/it]Generation:  37%|███▋      | 37/100 [53:17<59:21, 56.53s/it]  Generation:  38%|███▊      | 38/100 [54:00<54:09, 52.41s/it]Generation:  39%|███▉      | 39/100 [54:35<47:57, 47.17s/it]Generation:  40%|████      | 40/100 [55:17<45:41, 45.69s/it]Generation:  41%|████      | 41/100 [55:42<38:45, 39.42s/it]Generation:  42%|████▏     | 42/100 [56:24<38:57, 40.30s/it]Generation:  43%|████▎     | 43/100 [56:58<36:35, 38.52s/it]Generation:  44%|████▍     | 44/100 [57:39<36:34, 39.18s/it]Generation:  45%|████▌     | 45/100 [58:24<37:32, 40.96s/it]Generation:  46%|████▌     | 46/100 [59:07<37:18, 41.46s/it]Generation:  47%|████▋     | 47/100 [59:38<34:01, 38.52s/it]Generation:  48%|████▊     | 48/100 [1:00:32<37:14, 42.97s/it]Generation:  49%|████▉     | 49/100 [1:01:10<35:23, 41.64s/it]Generation:  50%|█████     | 50/100 [1:01:48<33:47, 40.55s/it]Generation:  51%|█████     | 51/100 [1:02:36<34:46, 42.57s/it]Generation:  52%|█████▏    | 52/100 [1:03:11<32:27, 40.57s/it]Generation:  53%|█████▎    | 53/100 [1:04:01<33:59, 43.40s/it]Generation:  54%|█████▍    | 54/100 [1:04:41<32:27, 42.33s/it]Generation:  55%|█████▌    | 55/100 [1:05:20<30:50, 41.13s/it]Generation:  56%|█████▌    | 56/100 [1:06:12<32:39, 44.54s/it]Generation:  57%|█████▋    | 57/100 [1:06:54<31:26, 43.88s/it]Generation:  58%|█████▊    | 58/100 [1:07:30<28:55, 41.33s/it]Generation:  59%|█████▉    | 59/100 [1:08:15<28:59, 42.42s/it]Generation:  60%|██████    | 60/100 [1:08:53<27:26, 41.16s/it]Generation:  61%|██████    | 61/100 [1:09:22<24:19, 37.42s/it]Generation:  62%|██████▏   | 62/100 [1:10:17<27:07, 42.83s/it]Generation:  63%|██████▎   | 63/100 [1:10:52<25:00, 40.55s/it]Generation:  64%|██████▍   | 64/100 [1:11:21<22:14, 37.07s/it]Generation:  65%|██████▌   | 65/100 [1:12:09<23:23, 40.10s/it]Generation:  66%|██████▌   | 66/100 [1:12:48<22:36, 39.89s/it]Generation:  67%|██████▋   | 67/100 [1:13:23<21:08, 38.45s/it]Generation:  68%|██████▊   | 68/100 [1:14:08<21:30, 40.32s/it]Generation:  69%|██████▉   | 69/100 [1:14:55<21:54, 42.39s/it]Generation:  70%|███████   | 70/100 [1:15:45<22:18, 44.62s/it]Generation:  71%|███████   | 71/100 [1:16:20<20:12, 41.83s/it]Generation:  72%|███████▏  | 72/100 [1:17:04<19:52, 42.61s/it]Generation:  73%|███████▎  | 73/100 [1:17:35<17:34, 39.04s/it]Generation:  74%|███████▍  | 74/100 [1:18:11<16:31, 38.12s/it]Generation:  75%|███████▌  | 75/100 [1:19:00<17:12, 41.29s/it]Generation:  76%|███████▌  | 76/100 [1:19:46<17:07, 42.81s/it]Generation:  77%|███████▋  | 77/100 [1:20:12<14:24, 37.58s/it]Generation:  78%|███████▊  | 78/100 [1:21:15<16:39, 45.45s/it]Generation:  79%|███████▉  | 79/100 [1:22:02<16:02, 45.84s/it]Generation:  80%|████████  | 80/100 [1:22:27<13:08, 39.43s/it]Generation:  81%|████████  | 81/100 [1:22:58<11:40, 36.86s/it]Generation:  82%|████████▏ | 82/100 [1:23:28<10:27, 34.87s/it]Generation:  83%|████████▎ | 83/100 [1:24:12<10:41, 37.74s/it]Generation:  84%|████████▍ | 84/100 [1:24:40<09:17, 34.84s/it]Generation:  85%|████████▌ | 85/100 [1:25:14<08:38, 34.58s/it]Generation:  86%|████████▌ | 86/100 [1:26:40<11:37, 49.84s/it]Generation:  87%|████████▋ | 87/100 [1:28:17<13:52, 64.05s/it]Generation:  88%|████████▊ | 88/100 [1:28:52<11:04, 55.37s/it]Generation:  89%|████████▉ | 89/100 [1:30:22<12:01, 65.63s/it]Generation:  90%|█████████ | 90/100 [1:30:50<09:03, 54.37s/it]Generation:  91%|█████████ | 91/100 [1:31:46<08:13, 54.88s/it]Generation:  92%|█████████▏| 92/100 [1:32:18<06:23, 47.99s/it]Generation:  93%|█████████▎| 93/100 [1:32:52<05:07, 43.98s/it]Generation:  94%|█████████▍| 94/100 [1:33:30<04:13, 42.24s/it]Generation:  95%|█████████▌| 95/100 [1:34:46<04:20, 52.19s/it]Generation:  96%|█████████▌| 96/100 [1:35:45<03:37, 54.27s/it]Generation:  97%|█████████▋| 97/100 [1:36:22<02:27, 49.06s/it]Generation:  98%|█████████▊| 98/100 [1:37:05<01:34, 47.27s/it]Generation:  99%|█████████▉| 99/100 [1:37:44<00:44, 44.94s/it]Generation: 100%|██████████| 100/100 [1:38:44<00:00, 49.47s/it]Generation: 100%|██████████| 100/100 [1:38:45<00:00, 59.25s/it]
-  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [00:21<36:00, 21.82s/it]Generation:   2%|▏         | 2/100 [00:54<46:20, 28.37s/it]Generation:   3%|▎         | 3/100 [01:12<38:08, 23.59s/it]Generation:   4%|▍         | 4/100 [01:53<48:38, 30.40s/it]Generation:   5%|▌         | 5/100 [02:26<49:47, 31.45s/it]Generation:   6%|▌         | 6/100 [02:49<44:32, 28.43s/it]Generation:   7%|▋         | 7/100 [03:06<38:27, 24.81s/it]Generation:   8%|▊         | 8/100 [03:29<37:08, 24.23s/it]Generation:   9%|▉         | 9/100 [04:04<41:56, 27.66s/it]Generation:  10%|█         | 10/100 [04:50<49:58, 33.32s/it]Generation:  11%|█         | 11/100 [05:11<43:28, 29.31s/it]Generation:  12%|█▏        | 12/100 [05:37<41:34, 28.35s/it]Generation:  13%|█▎        | 13/100 [07:55<1:29:21, 61.63s/it]Generation:  14%|█▍        | 14/100 [08:19<1:12:06, 50.31s/it]Generation:  15%|█▌        | 15/100 [08:41<59:16, 41.84s/it]  Generation:  16%|█▌        | 16/100 [09:07<51:42, 36.93s/it]Generation:  17%|█▋        | 17/100 [09:27<44:08, 31.91s/it]Generation:  18%|█▊        | 18/100 [10:16<50:25, 36.89s/it]Generation:  19%|█▉        | 19/100 [10:40<44:46, 33.17s/it]Generation:  20%|██        | 20/100 [11:07<41:43, 31.29s/it]Generation:  21%|██        | 21/100 [11:58<48:53, 37.13s/it]Generation:  22%|██▏       | 22/100 [13:28<1:09:02, 53.10s/it]Generation:  23%|██▎       | 23/100 [14:08<1:03:05, 49.16s/it]Generation:  24%|██▍       | 24/100 [14:39<55:30, 43.82s/it]  Generation:  25%|██▌       | 25/100 [15:10<49:38, 39.71s/it]Generation:  26%|██▌       | 26/100 [15:55<51:05, 41.43s/it]Generation:  27%|██▋       | 27/100 [16:31<48:34, 39.93s/it]Generation:  28%|██▊       | 28/100 [17:10<47:28, 39.56s/it]Generation:  29%|██▉       | 29/100 [17:54<48:14, 40.77s/it]Generation:  30%|███       | 30/100 [19:03<57:30, 49.29s/it]Generation:  31%|███       | 31/100 [20:42<1:13:42, 64.09s/it]Generation:  32%|███▏      | 32/100 [21:12<1:01:11, 53.99s/it]Generation:  33%|███▎      | 33/100 [22:26<1:07:06, 60.10s/it]Generation:  34%|███▍      | 34/100 [23:42<1:11:06, 64.65s/it]Generation:  35%|███▌      | 35/100 [24:43<1:08:49, 63.53s/it]Generation:  36%|███▌      | 36/100 [25:15<57:57, 54.33s/it]  Generation:  37%|███▋      | 37/100 [26:08<56:28, 53.79s/it]Generation:  38%|███▊      | 38/100 [27:12<58:54, 57.01s/it]Generation:  39%|███▉      | 39/100 [27:43<49:59, 49.17s/it]Generation:  40%|████      | 40/100 [28:40<51:29, 51.49s/it]Generation:  41%|████      | 41/100 [29:19<46:56, 47.74s/it]Generation:  42%|████▏     | 42/100 [30:38<55:02, 56.93s/it]Generation:  43%|████▎     | 43/100 [31:12<47:47, 50.31s/it]Generation:  44%|████▍     | 44/100 [32:05<47:35, 50.99s/it]Generation:  45%|████▌     | 45/100 [33:19<53:05, 57.92s/it]Generation:  46%|████▌     | 46/100 [34:14<51:23, 57.11s/it]Generation:  47%|████▋     | 47/100 [35:03<48:07, 54.48s/it]Generation:  48%|████▊     | 48/100 [36:19<52:51, 60.99s/it]Generation:  49%|████▉     | 49/100 [37:27<53:34, 63.03s/it]Generation:  50%|█████     | 50/100 [40:32<1:23:01, 99.64s/it]Generation:  51%|█████     | 51/100 [41:05<1:05:11, 79.82s/it]Generation:  52%|█████▏    | 52/100 [41:43<53:47, 67.23s/it]  Generation:  53%|█████▎    | 53/100 [42:20<45:25, 57.99s/it]Generation:  54%|█████▍    | 54/100 [44:40<1:03:24, 82.70s/it]Generation:  55%|█████▌    | 55/100 [45:33<55:24, 73.88s/it]  Generation:  56%|█████▌    | 56/100 [46:47<54:09, 73.85s/it]Generation:  57%|█████▋    | 57/100 [47:28<45:57, 64.13s/it]Generation:  58%|█████▊    | 58/100 [48:02<38:27, 54.93s/it]Generation:  59%|█████▉    | 59/100 [49:57<49:48, 72.88s/it]Generation:  60%|██████    | 60/100 [51:23<51:11, 76.79s/it]Generation:  61%|██████    | 61/100 [52:29<47:58, 73.81s/it]Generation:  62%|██████▏   | 62/100 [53:02<38:58, 61.54s/it]Generation:  63%|██████▎   | 63/100 [53:41<33:48, 54.82s/it]Generation:  64%|██████▍   | 64/100 [54:51<35:36, 59.36s/it]Generation:  65%|██████▌   | 65/100 [55:27<30:29, 52.27s/it]Generation:  66%|██████▌   | 66/100 [56:01<26:30, 46.78s/it]Generation:  67%|██████▋   | 67/100 [56:34<23:28, 42.68s/it]Generation:  68%|██████▊   | 68/100 [57:24<23:52, 44.77s/it]Generation:  69%|██████▉   | 69/100 [58:49<29:19, 56.76s/it]Generation:  70%|███████   | 70/100 [59:20<24:31, 49.06s/it]Generation:  71%|███████   | 71/100 [59:54<21:33, 44.62s/it]Generation:  72%|███████▏  | 72/100 [1:00:34<20:13, 43.33s/it]Generation:  73%|███████▎  | 73/100 [1:01:03<17:33, 39.01s/it]Generation:  74%|███████▍  | 74/100 [1:02:13<20:50, 48.08s/it]Generation:  75%|███████▌  | 75/100 [1:02:45<18:04, 43.39s/it]Generation:  76%|███████▌  | 76/100 [1:03:34<17:59, 44.98s/it]Generation:  77%|███████▋  | 77/100 [1:04:09<16:06, 42.02s/it]Generation:  78%|███████▊  | 78/100 [1:04:42<14:28, 39.48s/it]Generation:  79%|███████▉  | 79/100 [1:05:45<16:16, 46.50s/it]Generation:  80%|████████  | 80/100 [1:06:21<14:25, 43.29s/it]Generation:  81%|████████  | 81/100 [1:07:03<13:35, 42.92s/it]Generation:  82%|████████▏ | 82/100 [1:07:36<12:00, 40.01s/it]Generation:  83%|████████▎ | 83/100 [1:08:32<12:41, 44.79s/it]Generation:  84%|████████▍ | 84/100 [1:09:44<14:06, 52.88s/it]Generation:  85%|████████▌ | 85/100 [1:10:21<12:02, 48.15s/it]Generation:  86%|████████▌ | 86/100 [1:10:54<10:09, 43.55s/it]Generation:  87%|████████▋ | 87/100 [1:11:59<10:50, 50.02s/it]Generation:  88%|████████▊ | 88/100 [1:12:34<09:07, 45.60s/it]Generation:  89%|████████▉ | 89/100 [1:13:14<08:03, 43.98s/it]Generation:  90%|█████████ | 90/100 [1:14:31<08:57, 53.72s/it]Generation:  91%|█████████ | 91/100 [1:15:21<07:52, 52.53s/it]Generation:  92%|█████████▏| 92/100 [1:16:04<06:37, 49.72s/it]Generation:  93%|█████████▎| 93/100 [1:18:05<08:17, 71.05s/it]Generation:  94%|█████████▍| 94/100 [1:18:40<06:02, 60.39s/it]Generation:  95%|█████████▌| 95/100 [1:22:00<08:30, 102.20s/it]Generation:  96%|█████████▌| 96/100 [1:22:42<05:36, 84.20s/it] Generation:  97%|█████████▋| 97/100 [1:23:33<03:42, 74.14s/it]Generation:  98%|█████████▊| 98/100 [1:24:53<02:31, 75.82s/it]Generation:  99%|█████████▉| 99/100 [1:26:25<01:20, 80.71s/it]Generation: 100%|██████████| 100/100 [1:27:18<00:00, 72.64s/it]Generation: 100%|██████████| 100/100 [1:27:19<00:00, 52.39s/it]
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/decomposition/_fastica.py:127: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
-  warnings.warn(
-  0%|          | 0/100 [00:00<?, ?it/s]Generation:   0%|          | 0/100 [00:00<?, ?it/s]Generation:   1%|          | 1/100 [05:46<9:32:26, 346.93s/it]Generation:   2%|▏         | 2/100 [16:08<13:50:24, 508.41s/it]Generation:   3%|▎         | 3/100 [24:11<13:23:16, 496.88s/it]Generation:   4%|▍         | 4/100 [25:14<8:40:54, 325.57s/it] Generation:   5%|▌         | 5/100 [38:28<13:03:13, 494.67s/it]Generation:   6%|▌         | 6/100 [41:31<10:08:56, 388.69s/it]Generation:   7%|▋         | 7/100 [45:20<8:41:23, 336.38s/it] Generation:   8%|▊         | 8/100 [50:55<8:34:52, 335.78s/it]Generation:   9%|▉         | 9/100 [54:50<7:41:37, 304.37s/it]Generation:  10%|█         | 10/100 [1:06:43<10:45:42, 430.48s/it]Generation:  11%|█         | 11/100 [1:10:00<8:52:43, 359.14s/it] Generation:  12%|█▏        | 12/100 [1:20:01<10:34:33, 432.66s/it]Generation:  13%|█▎        | 13/100 [1:23:41<8:54:01, 368.29s/it] Generation:  14%|█▍        | 14/100 [1:26:06<7:11:19, 300.92s/it]Generation:  15%|█▌        | 15/100 [1:34:57<8:44:12, 370.03s/it]Generation:  16%|█▌        | 16/100 [1:45:15<10:22:30, 444.65s/it]Generation:  17%|█▋        | 17/100 [1:55:33<11:27:20, 496.88s/it]Generation:  18%|█▊        | 18/100 [1:56:46<8:25:13, 369.68s/it] Generation:  19%|█▉        | 19/100 [2:01:05<7:33:48, 336.16s/it]Generation:  20%|██        | 20/100 [2:09:49<8:43:45, 392.82s/it]Generation:  21%|██        | 21/100 [2:15:40<8:20:35, 380.19s/it]Generation:  22%|██▏       | 22/100 [2:18:15<6:46:12, 312.47s/it]Generation:  23%|██▎       | 23/100 [2:28:38<8:40:40, 405.72s/it]Generation:  24%|██▍       | 24/100 [2:34:30<8:13:37, 389.70s/it]Generation:  25%|██▌       | 25/100 [2:41:40<8:22:01, 401.63s/it]Generation:  26%|██▌       | 26/100 [2:46:14<7:28:08, 363.36s/it]Generation:  27%|██▋       | 27/100 [2:50:48<6:49:40, 336.72s/it]Generation:  28%|██▊       | 28/100 [2:57:57<7:17:03, 364.22s/it]Generation:  29%|██▉       | 29/100 [2:59:22<5:32:06, 280.65s/it]Generation:  30%|███       | 30/100 [3:02:15<4:49:28, 248.12s/it]Generation:  31%|███       | 31/100 [3:06:13<4:42:06, 245.31s/it]Generation:  32%|███▏      | 32/100 [3:16:36<6:46:15, 358.47s/it]Generation:  33%|███▎      | 33/100 [3:20:23<5:56:10, 318.96s/it]Generation:  34%|███▍      | 34/100 [3:26:22<6:04:10, 331.07s/it]Generation:  35%|███▌      | 35/100 [3:29:01<5:02:49, 279.53s/it]Generation:  36%|███▌      | 36/100 [3:35:05<5:24:59, 304.69s/it]Generation:  37%|███▋      | 37/100 [3:38:52<4:55:30, 281.44s/it]Generation:  38%|███▊      | 38/100 [3:47:32<6:04:53, 353.12s/it]Generation:  39%|███▉      | 39/100 [3:51:31<5:24:10, 318.87s/it]Generation:  40%|████      | 40/100 [3:58:55<5:56:15, 356.26s/it]Generation:  41%|████      | 41/100 [4:02:04<5:00:59, 306.09s/it]Generation:  42%|████▏     | 42/100 [4:04:39<4:12:07, 260.81s/it]Generation:  43%|████▎     | 43/100 [4:06:09<3:19:08, 209.63s/it]Generation:  44%|████▍     | 44/100 [4:10:31<3:30:17, 225.31s/it]Generation:  45%|████▌     | 45/100 [4:14:07<3:24:01, 222.56s/it]Generation:  46%|████▌     | 46/100 [4:17:46<3:19:24, 221.56s/it]Generation:  47%|████▋     | 47/100 [4:19:15<2:40:34, 181.78s/it]Generation:  48%|████▊     | 48/100 [4:26:34<3:44:26, 258.97s/it]Generation:  49%|████▉     | 49/100 [4:28:43<3:06:57, 219.95s/it]Generation:  50%|█████     | 50/100 [4:31:27<2:49:11, 203.04s/it]Generation:  51%|█████     | 51/100 [4:33:06<2:20:29, 172.03s/it]Generation:  52%|█████▏    | 52/100 [4:36:49<2:29:46, 187.23s/it]Generation:  53%|█████▎    | 53/100 [4:38:38<2:08:21, 163.86s/it]Generation:  54%|█████▍    | 54/100 [4:42:29<2:21:00, 183.93s/it]Generation:  55%|█████▌    | 55/100 [4:44:30<2:03:42, 164.96s/it]Generation:  56%|█████▌    | 56/100 [4:48:49<2:21:46, 193.32s/it]Generation:  57%|█████▋    | 57/100 [4:51:58<2:17:33, 191.93s/it]Generation:  58%|█████▊    | 58/100 [4:58:38<2:58:03, 254.38s/it]Generation:  59%|█████▉    | 59/100 [5:00:27<2:23:58, 210.70s/it]Generation:  60%|██████    | 60/100 [5:03:17<2:12:25, 198.63s/it]Generation:  61%|██████    | 61/100 [5:15:45<3:56:14, 363.44s/it]Generation:  62%|██████▏   | 62/100 [5:18:04<3:07:27, 295.99s/it]Generation:  63%|██████▎   | 63/100 [5:25:15<3:27:29, 336.48s/it]Generation:  64%|██████▍   | 64/100 [5:27:41<2:47:33, 279.26s/it]Generation:  65%|██████▌   | 65/100 [5:29:32<2:13:28, 228.82s/it]Generation:  66%|██████▌   | 66/100 [5:31:19<1:49:01, 192.39s/it]Generation:  67%|██████▋   | 67/100 [5:34:46<1:48:08, 196.61s/it]Generation:  68%|██████▊   | 68/100 [5:45:22<2:55:11, 328.49s/it]Generation:  69%|██████▉   | 69/100 [5:47:35<2:19:25, 269.86s/it]Generation:  70%|███████   | 70/100 [5:54:54<2:40:22, 320.74s/it]Generation:  71%|███████   | 71/100 [5:58:47<2:22:13, 294.26s/it]Generation:  72%|███████▏  | 72/100 [6:07:51<2:52:15, 369.11s/it]Generation:  73%|███████▎  | 73/100 [6:12:34<2:34:29, 343.32s/it]Generation:  74%|███████▍  | 74/100 [6:16:14<2:12:47, 306.43s/it]Generation:  75%|███████▌  | 75/100 [6:19:18<1:52:22, 269.69s/it]Generation:  76%|███████▌  | 76/100 [6:26:09<2:04:51, 312.15s/it]Generation:  77%|███████▋  | 77/100 [6:29:45<1:48:31, 283.12s/it]Generation:  78%|███████▊  | 78/100 [6:37:03<2:00:51, 329.62s/it]Generation:  79%|███████▉  | 79/100 [6:39:18<1:34:54, 271.16s/it]Generation:  80%|████████  | 80/100 [6:41:21<1:15:36, 226.80s/it]Generation:  81%|████████  | 81/100 [6:51:00<1:45:14, 332.35s/it]Generation:  82%|████████▏ | 82/100 [6:53:57<1:25:44, 285.78s/it]Generation:  83%|████████▎ | 83/100 [6:57:59<1:17:14, 272.63s/it]Generation:  84%|████████▍ | 84/100 [7:01:22<1:07:11, 251.97s/it]2025-09-11 13:14:12,541 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:12,546 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:12,610 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:12,610 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-Cancelled future (likely memory related)
-2025-09-11 13:14:13,259 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:13,259 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:13,483 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:13,483 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:13,645 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:13,645 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:14,050 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:14,051 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:14,051 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-1d919c60391870c5521798bdb83f4e85'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-2025-09-11 13:14:14,051 - distributed.scheduler - CRITICAL - Closed comm <BatchedSend: closed> while trying to write {'op': 'key-in-memory', 'key': 'ndarray-fcc4c1642c40c990ca3f43d3636dc291'}
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5862, in report
-    c.send(msg)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/batched.py", line 156, in send
-    raise CommClosedError(f"Comm {self.comm!r} already closed.")
-distributed.comm.core.CommClosedError: Comm <TCP (closed) Scheduler->Client local=tcp://127.0.0.1:46421 remote=tcp://127.0.0.1:56198> already closed.
-Cancelled future (likely memory related)
-Task exception was never retrieved
-future: <Task finished name='Task-8397311' coro=<Server._handle_comm() done, defined at /home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py:737> exception=KeyError('Client-bda71b41-8f10-11f0-bd43-507c6f14a00c')>
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/core.py", line 831, in _handle_comm
-    result = await result
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/scheduler.py", line 5914, in add_client
-    del self.client_comms[client]
-KeyError: 'Client-bda71b41-8f10-11f0-bd43-507c6f14a00c'
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Cancelled future (likely memory related)
-Generation:  85%|████████▌ | 85/100 [7:43:45<3:54:47, 939.17s/it]Generation:  86%|████████▌ | 86/100 [8:44:33<6:48:46, 1751.92s/it]Generation:  87%|████████▋ | 87/100 [9:45:21<8:22:47, 2320.54s/it]Generation:  88%|████████▊ | 88/100 [10:46:07<9:03:37, 2718.16s/it]Generation:  89%|████████▉ | 89/100 [11:46:52<9:09:21, 2996.46s/it]Generation:  90%|█████████ | 90/100 [12:49:02<8:56:05, 3216.51s/it]Generation:  91%|█████████ | 91/100 [13:49:48<8:21:46, 3345.16s/it]Generation:  92%|█████████▏| 92/100 [14:50:37<7:38:11, 3436.39s/it]Generation:  93%|█████████▎| 93/100 [15:51:26<6:48:20, 3500.10s/it]Generation:  94%|█████████▍| 94/100 [16:52:08<5:54:17, 3542.84s/it]Generation:  95%|█████████▌| 95/100 [17:54:22<4:59:59, 3599.96s/it]Generation:  96%|█████████▌| 96/100 [18:55:08<4:00:55, 3613.81s/it]Generation:  97%|█████████▋| 97/100 [19:55:56<3:01:12, 3624.17s/it]Generation:  98%|█████████▊| 98/100 [20:56:41<2:01:00, 3630.33s/it]Generation:  99%|█████████▉| 99/100 [21:57:27<1:00:35, 3635.15s/it]Generation: 100%|██████████| 100/100 [22:58:12<00:00, 3638.15s/it] Generation: 100%|██████████| 100/100 [22:58:12<00:00, 826.93s/it] 
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/linear_model/_sag.py:348: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
-  warnings.warn(
-Error shutting down client and cluster
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
-Perhaps you already have a cluster running?
-Hosting the HTTP server on port 37315 instead
-  warnings.warn(
-0it [00:00, ?it/s]Generation: : 0it [00:00, ?it/s]Generation: : 1it [1:26:00, 5160.97s/it]Generation: : 1it [1:26:01, 5161.11s/it]
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/sklearn/utils/deprecation.py:132: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
-  warnings.warn(
-DONE
-2025-09-12 06:41:52,252 - distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://127.0.0.1:59714 remote=tcp://127.0.0.1:46421>
-2025-09-12 06:41:52,255 - distributed.client - ERROR - 
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
-    bytes_read = self.read_from_fd(buf)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/tornado/iostream.py", line 1116, in read_from_fd
-    return self.socket.recv_into(buf, len(buf))
-TimeoutError: [Errno 110] Connection timed out
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1779, in _handle_report
-    msgs = await self.scheduler_comm.comm.read()
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/comm/tcp.py", line 236, in read
-    convert_stream_closed_error(self, e)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/comm/tcp.py", line 140, in convert_stream_closed_error
-    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
-distributed.comm.core.CommClosedError: in <TCP (closed) Client->Scheduler local=tcp://127.0.0.1:56198 remote=tcp://127.0.0.1:46421>: TimeoutError: [Errno 110] Connection timed out
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
-    return await func(*args, **kwargs)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1936, in _close
-    async with self._wait_for_handle_report_task(fast=fast):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/contextlib.py", line 199, in __aenter__
-    return await anext(self.gen)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1890, in _wait_for_handle_report_task
-    await wait_for(asyncio.shield(handle_report_task), 0.1)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 1957, in wait_for
-    return await asyncio.wait_for(fut, timeout)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/asyncio/tasks.py", line 445, in wait_for
-    return fut.result()
-AssertionError
-Exception ignored in atexit callback: <function _close_global_client at 0x1554cbb4e4d0>
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 6384, in _close_global_client
-    c.close(timeout=3)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 2002, in close
-    sync(self.loop, self._close, fast=True, callback_timeout=timeout)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 439, in sync
-    raise error
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 413, in f
-    result = yield future
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/tornado/gen.py", line 766, in run
-    value = future.result()
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 1957, in wait_for
-    return await asyncio.wait_for(fut, timeout)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/asyncio/tasks.py", line 445, in wait_for
-    return fut.result()
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 837, in wrapper
-    return await func(*args, **kwargs)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1936, in _close
-    async with self._wait_for_handle_report_task(fast=fast):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/contextlib.py", line 199, in __aenter__
-    return await anext(self.gen)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1890, in _wait_for_handle_report_task
-    await wait_for(asyncio.shield(handle_report_task), 0.1)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 1957, in wait_for
-    return await asyncio.wait_for(fut, timeout)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/asyncio/tasks.py", line 445, in wait_for
-    return fut.result()
-AssertionError: 
-Exception ignored in: <function Client.__del__ at 0x1554cbb488b0>
-Traceback (most recent call last):
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 1747, in __del__
-    self.close()
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/client.py", line 2002, in close
-    sync(self.loop, self._close, fast=True, callback_timeout=timeout)
-  File "/home/hodesse/miniconda3/envs/tpot2env/lib/python3.10/site-packages/distributed/utils.py", line 433, in sync
-    raise TimeoutError(f"timed out after {timeout} s.")
-asyncio.exceptions.TimeoutError: timed out after 60 s.

@@ -74,43 +74,59 @@ def main():
         X_train, y_train, X_test, y_test = d['X_train'], d['y_train'], d['X_test'], d['y_test']
 
         # constrained search space
-        est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-                                             random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        est_constrained.fit(X_train, y_train)
-        results = est_constrained.predict(X_test)
-        accuracy_constrained = accuracy_score(y_test, results)
+        # est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        #                                      random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        # est_constrained.fit(X_train, y_train)
+        # results = est_constrained.predict(X_test)
+        # accuracy_constrained = accuracy_score(y_test, results)
 
         # linear search space
-        est_linear = tpot.TPOTEstimator(search_space='linear', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-                                        random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        est_linear.fit(X_train, y_train)
-        results = est_linear.predict(X_test)
-        accuracy_linear = accuracy_score(y_test, results)
+        # est_linear = tpot.TPOTEstimator(search_space='linear', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        #                                 random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        # est_linear.fit(X_train, y_train)
+        # results = est_linear.predict(X_test)
+        # accuracy_linear = accuracy_score(y_test, results)
 
         # graph search space
-        est_graph = tpot.TPOTEstimator(search_space='graph', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-                                       random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        est_graph.fit(X_train, y_train)
-        results = est_graph.predict(X_test)
-        accuracy_graph = accuracy_score(y_test, results)
+        # est_graph = tpot.TPOTEstimator(search_space='graph', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        #                                random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        # est_graph.fit(X_train, y_train)
+        # results = est_graph.predict(X_test)
+        # accuracy_graph = accuracy_score(y_test, results)
 
-        # random control
-        est_random = tpot.TPOTEstimator(search_space='graph', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        # random graph
+        # est_random = tpot.TPOTEstimator(search_space='graph', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        #                                 random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        # est_random.fit(X_train, y_train)
+        # results = est_random.predict(X_test)
+        # accuracy_random_graph = accuracy_score(y_test, results)
+
+        # random linear
+        est_random = tpot.TPOTEstimator(search_space='linear', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
                                         random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
         est_random.fit(X_train, y_train)
         results = est_random.predict(X_test)
-        accuracy_random = accuracy_score(y_test, results)
+        accuracy_random_linear = accuracy_score(y_test, results)
+
+        # random constrained
+        est_random = tpot.TPOTEstimator(search_space=constrained_search_space, generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+                                        random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        est_random.fit(X_train, y_train)
+        results = est_random.predict(X_test)
+        accuracy_random_constrained = accuracy_score(y_test, results)
 
         full_results.append({"task id": task_id,
                             "run #": run_num,
-                             "constrained": accuracy_constrained,
-                             "linear": accuracy_linear,
-                             "graph": accuracy_graph,
-                             "random": accuracy_random
+                            #  "constrained": accuracy_constrained,
+                            #  "linear": accuracy_linear,
+                            #  "graph": accuracy_graph,
+                            #  "random graph": accuracy_random_graph
+                            "random linear": accuracy_random_linear,
+                            "random constrained": accuracy_random_constrained
                              })
 
         full_results_df = pd.DataFrame(full_results)
-        full_results_df.to_csv(os.path.join(save_folder, f"results_search_spaces_{task_id}_#{run_num}.csv"), index=False)
+        full_results_df.to_csv(os.path.join(save_folder, f"results_search_spaces_v2_{task_id}_#{run_num}.csv"), index=False)
 
     except Exception as e:
         trace = traceback.format_exc()
