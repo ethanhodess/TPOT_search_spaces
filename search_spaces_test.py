@@ -8,26 +8,18 @@ import dill as pickle
 import os
 import time
 import numpy as np
-import sklearn.model_selection
 from tpot.search_spaces.pipelines import ChoicePipeline, SequentialPipeline
 from functools import partial
 from estimator_node_gradual import EstimatorNodeGradual
 import pandas as pd
 
-from sklearn.ensemble import StackingClassifier
-from sklearn.ensemble import VotingClassifier
-from sklearn.linear_model import RidgeCV
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import GridSearchCV
-from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
-from xgboost import XGBClassifier
-from sklearn.base import clone
 import argparse
+import warnings
+warnings.filterwarnings("ignore")
 
 
-# defines a constrained search space with only three steps
-
+# defines a constrained search space
 def get_pipeline_space(seed):
     return tpot.search_spaces.pipelines.SequentialPipeline([
         tpot.config.get_search_space(
@@ -74,59 +66,77 @@ def main():
         X_train, y_train, X_test, y_test = d['X_train'], d['y_train'], d['X_test'], d['y_test']
 
         # constrained search space
-        # est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-        #                                      random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        # est_constrained.fit(X_train, y_train)
-        # results = est_constrained.predict(X_test)
-        # accuracy_constrained = accuracy_score(y_test, results)
+        est_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+                                             random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        est_constrained.fit(X_train, y_train)
+        results_constrained = est_constrained.predict(X_test)
+        accuracy_constrained = accuracy_score(y_test, results_constrained)
+
+        # save the evaluated individuals
+        eval_inds_constrained = est_constrained.evaluated_individuals
+        outpath_constrained = os.path.join(save_folder, f"evaluated_individuals_constrained_{task_id}_#{run_num}.pkl")
+        with open(outpath_constrained, "wb") as f:
+            pickle.dump(eval_inds_constrained, f)
 
         # linear search space
-        # est_linear = tpot.TPOTEstimator(search_space='linear', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-        #                                 random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        # est_linear.fit(X_train, y_train)
-        # results = est_linear.predict(X_test)
-        # accuracy_linear = accuracy_score(y_test, results)
+        est_linear = tpot.TPOTEstimator(search_space='linear', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+                                        random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        est_linear.fit(X_train, y_train)
+        results_linear = est_linear.predict(X_test)
+        accuracy_linear = accuracy_score(y_test, results_linear)
+
+        # save the evaluated individuals
+        eval_inds_linear = est_constrained.evaluated_individuals
+        outpath_linear = os.path.join(save_folder, f"evaluated_individuals_linear_{task_id}_#{run_num}.pkl")
+        with open(outpath_linear, "wb") as f:
+            pickle.dump(eval_inds_linear, f)
 
         # graph search space
-        # est_graph = tpot.TPOTEstimator(search_space='graph', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
-        #                                random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        # est_graph.fit(X_train, y_train)
-        # results = est_graph.predict(X_test)
-        # accuracy_graph = accuracy_score(y_test, results)
+        est_graph = tpot.TPOTEstimator(search_space='graph', generations=100, population_size=50, cv=5, n_jobs=n_jobs, max_time_mins=None,
+                                       random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        est_graph.fit(X_train, y_train)
+        results_graph = est_graph.predict(X_test)
+        accuracy_graph = accuracy_score(y_test, results_graph)
+
+        # save the evaluated individuals
+        eval_inds_graph = est_constrained.evaluated_individuals
+        outpath_graph = os.path.join(save_folder, f"evaluated_individuals_graph_{task_id}_#{run_num}.pkl")
+        with open(outpath_graph, "wb") as f:
+            pickle.dump(eval_inds_graph, f)
 
         # random graph
-        # est_random = tpot.TPOTEstimator(search_space='graph', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
-        #                                 random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        # est_random.fit(X_train, y_train)
-        # results = est_random.predict(X_test)
-        # accuracy_random_graph = accuracy_score(y_test, results)
+        est_random_graph = tpot.TPOTEstimator(search_space='graph', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+                                        random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
+        est_random_graph.fit(X_train, y_train)
+        results_random_graph = est_random_graph.predict(X_test)
+        accuracy_random_graph = accuracy_score(y_test, results_random_graph)
 
         # random linear
-        est_random = tpot.TPOTEstimator(search_space='linear', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        est_random_linear = tpot.TPOTEstimator(search_space='linear', generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
                                         random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        est_random.fit(X_train, y_train)
-        results = est_random.predict(X_test)
-        accuracy_random_linear = accuracy_score(y_test, results)
+        est_random_linear.fit(X_train, y_train)
+        results_random_linear = est_random_linear.predict(X_test)
+        accuracy_random_linear = accuracy_score(y_test, results_random_linear)
 
         # random constrained
-        est_random = tpot.TPOTEstimator(search_space=constrained_search_space, generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
+        est_random_constrained = tpot.TPOTEstimator(search_space=constrained_search_space, generations=0, population_size=5000, cv=5, n_jobs=n_jobs, max_time_mins=None,
                                         random_state=run_num, verbose=2, classification=True, scorers=['roc_auc_ovr', tpot.objectives.complexity_scorer], scorers_weights=[1, -1])
-        est_random.fit(X_train, y_train)
-        results = est_random.predict(X_test)
-        accuracy_random_constrained = accuracy_score(y_test, results)
+        est_random_constrained.fit(X_train, y_train)
+        results_random_constrained = est_random_constrained.predict(X_test)
+        accuracy_random_constrained = accuracy_score(y_test, results_random_constrained)
 
         full_results.append({"task id": task_id,
                             "run #": run_num,
-                            #  "constrained": accuracy_constrained,
-                            #  "linear": accuracy_linear,
-                            #  "graph": accuracy_graph,
-                            #  "random graph": accuracy_random_graph
+                            "constrained": accuracy_constrained,
+                            "linear": accuracy_linear,
+                            "graph": accuracy_graph,
+                            "random graph": accuracy_random_graph,
                             "random linear": accuracy_random_linear,
                             "random constrained": accuracy_random_constrained
                              })
 
         full_results_df = pd.DataFrame(full_results)
-        full_results_df.to_csv(os.path.join(save_folder, f"results_search_spaces_v2_{task_id}_#{run_num}.csv"), index=False)
+        full_results_df.to_csv(os.path.join(save_folder, f"results_search_spaces_{task_id}_#{run_num}.csv"), index=False)
 
     except Exception as e:
         trace = traceback.format_exc()
