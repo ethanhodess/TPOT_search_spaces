@@ -1,0 +1,178 @@
+library(ggplot2)
+library(cowplot)
+library(dplyr)
+library(ggforce)
+library(tidyr)
+library(PupillometryR)
+
+
+data_dir = '/Users/ethanhodess/Documents/Documents - Ethan’s MacBook Pro/Cedars/2025/TPOT_search_spaces/collect/'
+scores <- read.csv(paste(data_dir, 'full_combined.csv', sep = "", collapse = NULL), header = TRUE, stringsAsFactors = FALSE)
+
+
+scores_long <- scores %>%
+  pivot_longer(
+    cols = c("constrained", "linear", "graph", "random.graph", "random.linear", "random.constrained"),  
+    names_to = "search_space",
+    values_to = "accuracy"
+  ) %>%
+  mutate(search_space = factor(
+    search_space,
+    levels = c(
+      "constrained",
+      "random.constrained",
+      "linear",
+      "random.linear",
+      "graph",
+      "random.graph"
+    )
+  ))
+
+
+plot_359959 = filter(scores_long, task.id == "359959") %>%
+  ggplot(aes(x = search_space, y = accuracy, fill = search_space)) +
+  geom_flat_violin(position = position_nudge(x = 0.1, y = 0), scale = 'width', alpha = 0.2, width = 1.5) +
+  geom_boxplot(color = 'black', width = .08, outlier.shape = NA, alpha = 0.0, size = 0.8, position = position_nudge(x = .15, y = 0)) +
+  geom_point(position = position_jitter(width = .015, height = .0001), size = 1.0, alpha = 1.0) +
+  theme_minimal() + 
+  labs(#title = "Task 359959",
+       x = "Search Space",
+       y = "Task 359959") +
+  theme(legend.position = "none", 
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(),
+        #axis.title.y=element_blank(),
+        axis.text.x = element_blank()) +
+  scale_x_discrete(
+    labels = c(
+      "constrained" = "Constrained",
+      "random.constrained" = "Random Constrained",
+      "linear" = "Linear",
+      "random.linear" = "Random Linear",
+      "graph" = "Graph",
+      "random.graph" = "Random Graph"
+    )
+  )
+
+plot_359959
+
+
+plot_359954 = filter(scores_long, task.id == "359954") %>%
+  ggplot(aes(x = search_space, y = accuracy, fill = search_space)) +
+  geom_flat_violin(position = position_nudge(x = 0.1, y = 0), scale = 'width', alpha = 0.2, width = 1.5) +
+  geom_boxplot(color = 'black', width = .08, outlier.shape = NA, alpha = 0.0, size = 0.8, position = position_nudge(x = .15, y = 0)) +
+  geom_point(position = position_jitter(width = .015, height = .0001), size = 1.0, alpha = 1.0) +
+  theme_minimal() + 
+  labs(#title = "Task 359954",
+       x = "Search Space",
+       y = "Task 359954") +
+  theme(legend.position = "none", 
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(),
+        #axis.title.y=element_blank(),
+        axis.text.x = element_blank()) +
+  scale_x_discrete(
+    labels = c(
+      "constrained" = "Constrained",
+      "random.constrained" = "Random Constrained",
+      "linear" = "Linear",
+      "random.linear" = "Random Linear",
+      "graph" = "Graph",
+      "random.graph" = "Random Graph"
+    )
+  )
+
+plot_359954
+
+plot_2073 = filter(scores_long, task.id == "2073") %>%
+  ggplot(aes(x = search_space, y = accuracy, fill = search_space)) +
+  geom_flat_violin(position = position_nudge(x = 0.1, y = 0), scale = 'width', alpha = 0.2, width = 1.5) +
+  geom_boxplot(color = 'black', width = .08, outlier.shape = NA, alpha = 0.0, size = 0.8, position = position_nudge(x = .15, y = 0)) +
+  geom_point(position = position_jitter(width = .015, height = .0001), size = 1.0, alpha = 1.0) +
+  theme_minimal() + 
+  labs(#title = "Task 2073",
+       x = "Search Space",
+       y = "Task 2073") +
+  theme(legend.position = "none", 
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(),
+        #axis.title.y=element_blank(),
+        axis.text.x = element_blank()) +
+  scale_x_discrete(
+    labels = c(
+      "constrained" = "Constrained",
+      "random.constrained" = "Random Constrained",
+      "linear" = "Linear",
+      "random.linear" = "Random Linear",
+      "graph" = "Graph",
+      "random.graph" = "Random Graph"
+    )
+  )
+
+plot_2073
+
+
+plot_168784 = filter(scores_long, task.id == "168784") %>%
+  ggplot(aes(x = search_space, y = accuracy, fill = search_space)) +
+  geom_flat_violin(position = position_nudge(x = 0.1, y = 0), scale = 'width', alpha = 0.2, width = 1.5) +
+  geom_boxplot(color = 'black', width = .08, outlier.shape = NA, alpha = 0.0, size = 0.8, position = position_nudge(x = .15, y = 0)) +
+  geom_point(position = position_jitter(width = .015, height = .0001), size = 1.0, alpha = 1.0) +
+  theme_minimal() + 
+  labs(#title = "Task 168784",
+       x = "Search Space",
+       y = "Task 168784") +
+  theme(legend.position = "none", 
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(),
+        #axis.title.y=element_blank(),
+        axis.text.x = element_blank()) +
+  scale_x_discrete(
+    labels = c(
+      "constrained" = "Constrained",
+      "random.constrained" = "Random Constrained",
+      "linear" = "Linear",
+      "random.linear" = "Random Linear",
+      "graph" = "Graph",
+      "random.graph" = "Random Graph"
+    )
+  )
+
+plot_168784
+
+
+
+plot_190146 = filter(scores_long, task.id == "190146") %>%
+  ggplot(aes(x = search_space, y = accuracy, fill = search_space)) +
+  geom_flat_violin(position = position_nudge(x = 0.1, y = 0), scale = 'width', alpha = 0.2, width = 1.5) +
+  geom_boxplot(color = 'black', width = .08, outlier.shape = NA, alpha = 0.0, size = 0.8, position = position_nudge(x = .15, y = 0)) +
+  geom_point(position = position_jitter(width = .015, height = .0001), size = 1.0, alpha = 1.0) +
+  theme_minimal() + 
+  labs(#title = "Task 190146",
+       x = "Search Space",
+       y = "Task 190146") +
+  theme(legend.position = "none", 
+        plot.title = element_text(hjust = 0.5),
+        axis.title.x=element_blank(),
+        #axis.title.y=element_blank(),
+        #axis.text.x=element_blank()
+        ) +
+  scale_x_discrete(
+    labels = c(
+      "constrained" = "Constrained",
+      "random.constrained" = "Random Constrained",
+      "linear" = "Linear",
+      "random.linear" = "Random Linear",
+      "graph" = "Graph",
+      "random.graph" = "Random Graph"
+    )
+  )
+
+plot_190146
+
+
+
+combined_plot <- plot_grid(
+  plot_359959, plot_359954, plot_2073, plot_168784, plot_190146,
+  ncol = 1, align = "v"
+)
+combined_plot
